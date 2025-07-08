@@ -1,0 +1,40 @@
+.tweet{
+    width: 42vw;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+    
+    
+}
+
+ #listaa{
+ display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+    margin-top: 2vw;
+    
+
+ }
+
+#que{
+    width: 42vw;
+    height: 15vh;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-right: 3vw;
+    margin-bottom: 3vw;
+    border-radius: 5px;
+}
+
+
+
+

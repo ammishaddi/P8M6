@@ -1,0 +1,42 @@
+#botoncito{
+    margin-left: 60vw;
+    margin-right: 4vw;
+}
+
+.arriba{
+    display: flex;
+    flex-direction: row;
+    margin-top: -1vh;
+   
+    font-size: 13px;
+    margin-bottom: 5vw;
+}
+
+a{
+    color: inherit;
+}
+
+
+#sesion{
+    margin-right: 3vw;
+    width: 20vw;
+    height: 5vh;
+    text-align: center;
+    margin-top: 3vw;
+}
+
+#sesion2{
+    margin-right: 3vw;
+     height: 5vh;
+       text-align: center;
+}
+
+.datos{
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-top: 5vw;
+}
+
+#titulote{
+    font-size: 35px;
+}
